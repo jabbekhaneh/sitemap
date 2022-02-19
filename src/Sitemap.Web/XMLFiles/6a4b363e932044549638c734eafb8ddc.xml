@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<DataNode xmlns:xsi="http://www.abc.ir" d1p1:schemaLocation="http://www.abc.ir/ aaa.xsd" xmlns="http://www.abc.ir" xmlns:d1p1="http://www.abc.ir/XMLSchema-instance">
+  <Header>
+    <contentData>20212-02-02</contentData>
+  </Header>
+  <RecordsData>
+    <RecordData>
+      <nameNode>SeyedHassan</nameNode>
+      <groupNode>Jabbekhaneh</groupNode>
+      <addressNode>
+        <addressLineNode>ABC Bulding, 202202</addressLineNode>
+        <countryNode>IRR</countryNode>
+      </addressNode>
+      <subsNode>
+        <subNode>
+          <startDataNode>2022-02-02</startDataNode>
+          <endDataNode>2022-02-10</endDataNode>
+        </subNode>
+      </subsNode>
+    </RecordData>
+  </RecordsData>
+</DataNode>
